@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "REA 文件分析",
+    "description": "使用 REA 读取模型文件、Android 安装包、GPU 代码对象和原生二进制文件的元数据。向 Harness 提供文件路径，即可询问文件内容。"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "REA file inspection",
+    "description": "Read metadata from model files, Android packages, GPU code objects and native binaries using REA. Give Harness the path to a file and ask what it contains."
+  }
+}
