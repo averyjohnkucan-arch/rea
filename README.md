@@ -5,6 +5,8 @@
 
 # REA: Reverse Engineer Anything
 
+This fork adds [REA file inspection for DeepSeek Harness](plugins/deepseek-harness/README.md). Paste the fork’s GitHub URL into **Plugins → Add plugin** to install the packaged readers from the default branch.
+
 ### One MCP for reverse engineering across binaries, applications, and runtime behavior.
 
 **See a feature you like. Understand how it works, down to the binary level.**
